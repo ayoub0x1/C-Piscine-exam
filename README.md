@@ -15,6 +15,6 @@ This git repo provides useful tips to understand how to achieve 100 at 1337/42 e
 You can take a look on this repo in order to practice and get ready to your exams and remember:
 
 - Don't push your exercises with the main function if they ask you to write only a function
-- add a main.c file to exercises that are only functions (if you want to compile while practicing).
-- create exercises inside the correct folders with the correct names before asking the machine to correct your exercises.
-- practice, practice and practice, and good luck.
+- Add a main.c file to exercises that are only functions (if you want to compile while practicing).
+- Create exercises inside the correct folders with the correct names before asking the machine to correct your exercises.
+- Practice, practice, practice, and good luck.
