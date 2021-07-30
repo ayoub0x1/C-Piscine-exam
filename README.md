@@ -21,4 +21,4 @@ You can take a look on this repo in order to practice and get ready to your exam
 
 ## Here are my notes:
 
-<img src="https://user-images.githubusercontent.com/76871172/127694045-e11a6438-46a1-402d-9ccc-fc26bbbbc6f4.jpg" width="350" height="350" >
+<img src="https://user-images.githubusercontent.com/76871172/127694814-fd3a2f5f-0da5-47a4-b114-0c258610b5d2.jpg" width="350" height="160" >
