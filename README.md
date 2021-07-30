@@ -18,3 +18,7 @@ You can take a look on this repo in order to practice and get ready to your exam
 - Add a main.c file to exercises that are only functions (if you want to compile while practicing).
 - Create exercises inside the correct folders with the correct names before asking the machine to correct your exercises.
 - Practice, practice, practice, and good luck.
+
+## Here are my notes:
+
+![exams](https://user-images.githubusercontent.com/76871172/127694045-e11a6438-46a1-402d-9ccc-fc26bbbbc6f4.jpg)
