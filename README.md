@@ -10,7 +10,7 @@ Every Friday, you will face an exam machine, but first, you have to log in to yo
 
 This git repo provides useful tips to understand how to achieve 100 at 1337/42 exams. However one should not memorize answers if not properly understood.
 
-# How can you help?
+# How can it help you?
 
 You can take a look on this repo in order to practice and get ready to your exams and remember:
 
