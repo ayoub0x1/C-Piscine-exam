@@ -1,4 +1,4 @@
-# Piscine-exam
+# C-Piscine-exam | Exam Shell
 
 Get ready for your 1337/42 exams
 
