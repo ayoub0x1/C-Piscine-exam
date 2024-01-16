@@ -39,6 +39,11 @@ int is_prime(int n)
 {
 	int i;
 
+	if(n==1)
+	{
+		return 0;
+	}
+	
 	i = 2;
 	while (i < n)
 		if (!(n % i++))
